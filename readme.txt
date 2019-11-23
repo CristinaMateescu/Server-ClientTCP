@@ -1,4 +1,4 @@
-README -- tema2_PC -- MATEESCU CRISTINA-RAMONA -- 321CB
+README 
 
 	Mentiune : README-ul este scris urmarind codul - comentariile in README corespund cu cele din cod; Pentru
 		   intelegerea mai usoara : cele doua se pot urmari in paralel
